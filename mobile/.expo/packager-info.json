@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 21251,
+  "expoServerNgrokUrl": "https://d3-s3i.anonymous.mobile.exp.direct",
+  "packagerNgrokUrl": "https://packager.d3-s3i.anonymous.mobile.exp.direct",
+  "ngrokPid": 21275,
+  "webpackServerPort": null
+}
